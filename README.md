@@ -1,6 +1,7 @@
 Numerical simulations (R-code) for Figure 6 in a paper entitled: 
 
 "Why Do Banks Require Minimum Balance to Avoid a Fee?" by Oz Shy 
+Forthcoming, Annals of Finance
 
 The R-code "balance_2023_12_10.R" draws Figure 6 in the paper. 
 
